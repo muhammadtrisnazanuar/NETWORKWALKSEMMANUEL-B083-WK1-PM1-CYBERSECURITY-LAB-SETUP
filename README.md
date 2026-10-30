@@ -121,7 +121,7 @@ IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
 
-![](2. Screenshot-network-setting.png)
+![alt text](https://github.com/muhammadtrisnazanuar/NETWORKWALKSEMMANUEL-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/2.screenshot-network-setting.png?raw=true)
 
 A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 
@@ -148,7 +148,7 @@ The VM was allocated:
 ```text
 RAM: 2048 MB
 ```
-![](3. Screenshot-kali-linux.png)
+![alt text](https://github.com/muhammadtrisnazanuar/NETWORKWALKSEMMANUEL-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/3.screenshot-kali-linux.png?raw=true)
 A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
 
 
@@ -170,7 +170,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-![](4. Screenshot-kali-network-setting.png)
+![alt text](https://github.com/muhammadtrisnazanuar/NETWORKWALKSEMMANUEL-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/4.screenshot-kali-network-setting.png?raw=true)
 
 ---
 

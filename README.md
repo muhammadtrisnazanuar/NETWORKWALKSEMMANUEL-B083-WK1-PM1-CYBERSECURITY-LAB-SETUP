@@ -305,7 +305,7 @@ This laboratory is intended strictly for education purposes only.
 
 # 👤 Author
 
-**MUHAMMAD TRISNA ZANUAR RAHMADAN NUR FAISAL HADI SAPURA**\
+**MUHAMMAD TRISNA ZANUAR RAHMADAN NUR FAISAL HADI SAPUTRA**\
 Cybersecurity Professional B084M
 
 LinkedIn: [https://www.linkedin.com/in/muhammad-trisna-zanuar-rahmadan-nur-faisal-hadi-saputra?utm_source=share_via&utm_content=profile&utm_medium=member_android)

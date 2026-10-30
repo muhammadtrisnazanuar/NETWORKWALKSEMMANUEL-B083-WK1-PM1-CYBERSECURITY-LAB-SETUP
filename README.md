@@ -305,8 +305,8 @@ This laboratory is intended strictly for education purposes only.
 
 # 👤 Author
 
-**Waqas Karim**\
-Cybersecurity Professional B082
+**MUHAMMAD TRISNA ZANUAR RAHMADAN NUR FAISAL HADI SAPURA**\
+Cybersecurity Professional B084M
 
 LinkedIn: [https://www.linkedin.com/in/muhammad-trisna-zanuar-rahmadan-nur-faisal-hadi-saputra?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
